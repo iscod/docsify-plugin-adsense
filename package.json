@@ -1,0 +1,25 @@
+{
+  "name": "docsify-plugin-adsense",
+  "version": "1.0.0",
+  "description": "[docsify](https://docsify.js.org/) plugin to make you easy to join up [google adsense](https://www.google.com/adsense)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iscod/docsify-plugin-adsense.git"
+  },
+  "keywords": [
+    "google adsense",
+    "adsense",
+    "docsify",
+    "plugin"
+  ],
+  "author": "iscod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iscod/docsify-plugin-adsense/issues"
+  },
+  "homepage": "https://github.com/iscod/docsify-plugin-adsense#readme"
+}
