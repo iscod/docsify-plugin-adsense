@@ -22,8 +22,7 @@
 
         if (scriptEl) {
           scriptEl = scriptEl.parentNode.removeChild(scriptEl);
-        }
-        else {
+        } else {
           scriptEl = document.createElement("script");
           scriptEl.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${caPub}`;
           scriptEl.async = "async";
